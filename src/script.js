@@ -28,6 +28,14 @@ gltfLoader.load(
   }
 )
 
+// gltfLoader.load(
+//   '/models/FlightHelmet/glTF/FlightHelmet.gltf',
+//   (gltf) =>
+//   {
+//       scene.add(gltf.scene.children[0])
+//   }
+// )
+
 /**
  * Floor
  */
